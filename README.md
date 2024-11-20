@@ -57,3 +57,13 @@ In this task, the following objectives were successfully completed:
 - A method was added to count the number of characters in the name.
 - The total number of names in the list was compared with the number of objects created, explaining the effect of `None`.
 
+### 11. Числові методи в Python
+
+In this task, the following objectives were successfully completed:
+
+- Explored the NumPy library for creating and manipulating arrays, including multidimensional structures.  
+- Practiced generating arrays using methods like `arange` and `linspace`, identifying the underlying formulas.  
+- Performed various operations on vectors and matrices, including slicing, indexing, and arithmetic manipulations.  
+- Analyzed the dimensionality of arrays and explained the output of specific operations.  
+- Addressed tasks involving practical application of NumPy methods and concepts, enhancing understanding of array structures.  
+- Documented all results and explanations clearly in a Jupyter Notebook. 

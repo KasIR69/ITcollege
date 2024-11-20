@@ -6,6 +6,8 @@ This document provides a report on the tasks written in Python, explaining the c
 
 ---
 
+### I went through all the examples on your github and wrote my own examples and a demonstration of what I learnt in the file [main.ipynb](main.ipynb)
+
 ## 1️⃣ Understanding Data Types
 
 ### Code Explanation
@@ -122,6 +124,8 @@ Context managers (the `with` statement) ensure that resources like files are pro
 ```console
 File content: 2024-11-20 01:12:24
 ```
+
+### I went through all the examples on your github and wrote my own examples and a demonstration of what I learnt in the file [main.ipynb](main.ipynb)
 
 ## Conclusion
 
