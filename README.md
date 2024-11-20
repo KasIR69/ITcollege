@@ -31,4 +31,29 @@ In this task, the repository was created, the development environment was connec
 
 ### 3. Оформлення робіт та перша програма 💻
 
+- **Objective**: Successfully completed the task of creating a Python script and working with Jupyter Notebooks.
+- **New Knowledge**: Learned how to set up the Python environment in VS Code, create Python scripts, and use Jupyter notebooks for interactive coding.
+- **Challenges**: No major issues encountered during the task, and all the steps were executed smoothly.
+- **Results**: The Python program successfully printed the current time and location. The same code was successfully executed in Jupyter Notebook, demonstrating the ability to work with both Python scripts and notebooks.
+
 ### 4. Основи Python 🐍
+
+In this task, the following objectives were successfully completed:
+
+- The use of context managers (`with` statement) for file operations was demonstrated.
+- The current timestamp was written to a file in write mode.
+- The file content was read and printed using read mode.
+- Proper resource management was ensured by automatically closing the file after operations.
+
+The principles of safe and efficient file handling were successfully applied, preparing the foundation for more advanced file operations in future tasks.
+
+### 5. Основи ООП
+
+In this task, the following objectives were successfully completed:
+
+- A class was created to handle various types of methods and properties.
+- The program was designed to handle `None` input values and create a default "Anonymous" name when necessary.
+- The `say_hello()` method was modified to include a customizable greeting message.
+- A method was added to count the number of characters in the name.
+- The total number of names in the list was compared with the number of objects created, explaining the effect of `None`.
+
