@@ -1,6 +1,5 @@
 
 ---
-# Числові методи в Python
 
 ## Execution of the Work  
 
@@ -10,7 +9,7 @@
 
 2. **Link to the Solution**  
    All code and solutions are available in the Jupyter Notebook:  
-   [**main.ipynb**](main.ipynb).  
+   [**main.ipynb**](path/to/main.ipynb).  
 
 ---
 

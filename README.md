@@ -8,10 +8,15 @@ Ihor loves cycling 🚴, going on dates with girls 💑, organizing Rubik's Cube
 To work with Visual Studio Code and GitHub: install Git, clone repository, write code, commit changes, push to GitHub, create branches, merge, resolve conflicts, and pull updates.
 
 ## Table of Contents
-1. [Налаштування середовища](#FirstTask)
-2. [Створення репозиторію](#SecondTask)
-3. [Оформлення робіт та перша програма](#оформлення-робіт-та-перша-програма)
-4. [Основи Python](#основи-python)
+1. [Налаштування середовища](FirstTask)
+2. [Створення репозиторію](SecondTask)
+3. [Оформлення робіт та перша програма](ThirdTask)
+4. [Основи Python](4thTask)
+5. [Знайомство з ООП](5thTask)
+6. [Робота з числовими даними](11thTask)
+7. [Практичне застосування чисельних даних](lastTask)
+
+
 
 ---
 
@@ -67,3 +72,14 @@ In this task, the following objectives were successfully completed:
 - Analyzed the dimensionality of arrays and explained the output of specific operations.  
 - Addressed tasks involving practical application of NumPy methods and concepts, enhancing understanding of array structures.  
 - Documented all results and explanations clearly in a Jupyter Notebook. 
+
+### 13. Практичне застосування чисельних даних
+
+In this task, the following objectives were successfully completed:
+
+- Explored the PIL library for loading and manipulating images, converting them into NumPy arrays for advanced operations.
+- Practiced applying mathematical transformations on image data, such as color inversion and grayscale conversion, to understand pixel-level manipulation.
+- Implemented custom effects, including red color filtering and sepia tone application, demonstrating creative use of image arrays.
+- Analyzed the dimensions and structure of image arrays, correlating them to RGB channel data for better visualization and understanding.
+- Utilized Matplotlib for visual representation of processed images, enabling clear and interactive outputs within the Jupyter Notebook environment.
+- Documented all steps, transformations, and visual results with explanations to provide clarity and reproducibility.
