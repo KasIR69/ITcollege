@@ -62,7 +62,7 @@ In this task, the following objectives were successfully completed:
 - A method was added to count the number of characters in the name.
 - The total number of names in the list was compared with the number of objects created, explaining the effect of `None`.
 
-### 11. Числові методи в Python
+### 6. Числові методи в Python
 
 In this task, the following objectives were successfully completed:
 
@@ -73,7 +73,7 @@ In this task, the following objectives were successfully completed:
 - Addressed tasks involving practical application of NumPy methods and concepts, enhancing understanding of array structures.  
 - Documented all results and explanations clearly in a Jupyter Notebook. 
 
-### 13. Практичне застосування чисельних даних
+### 7. Практичне застосування чисельних даних
 
 In this task, the following objectives were successfully completed:
 
